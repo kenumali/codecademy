@@ -1,6 +1,6 @@
-/*
-This is a small program that uses math to perform a mathematical magic trick.
-The magic trick will involve performing arithmetic operations on any integer that you choose.
+/**
+* This is a small program that uses math to perform a mathematical magic trick.
+* The magic trick will involve performing arithmetic operations on any integer that you choose.
 */
 
 public class Magic {
