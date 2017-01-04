@@ -1,11 +1,11 @@
-/*
-Combines a few concepts: conditionals, Boolean expressions, and arithmetic expressions.
-This program will calculate the monthly car payment a user should expect to make after taking out a car loan.
-The program will include the following:
-1. Car loan amount
-2. Interest rate of the loan
-3. Length of the loan (in years)
-4. Down payment
+/**
+* Combines a few concepts: conditionals, Boolean expressions, and arithmetic expressions.
+* This program will calculate the monthly car payment a user should expect to make after taking out a car loan.
+* The program will include the following:
+* 1. Car loan amount
+* 2. Interest rate of the loan
+* 3. Length of the loan (in years)
+* 4. Down payment
 */
 
 public class CarLoan {
