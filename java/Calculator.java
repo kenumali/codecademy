@@ -1,10 +1,10 @@
-/*
-This project uses classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:
-1. Add two integers
-2. Subtract two integers
-3. Multiply two integers
-4. Divide two integers
-5. Apply the modulo operator on two integers
+/**
+* This project uses classes, methods, and objects to create a simple arithmetic calculator. The calculator will be able to:
+* 1. Add two integers
+* 2. Subtract two integers
+* 3. Multiply two integers
+* 4. Divide two integers
+* 5. Apply the modulo operator on two integers
 */
 
 public class Calculator {
