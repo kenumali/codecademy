@@ -26,10 +26,9 @@ function main(){
     if(colorClass) {
       $(this).toggleClass('opacity');
       if($(this).hasClass('opacity')) {
-        
-       blinkInterval = setInterval(function() {
-        $('.box.cyan, .box.yellow, .box.magenta').toggleClass('blink');
-      }, 350);
+         blinkInterval = setInterval(function() {
+          $('.box.cyan, .box.yellow, .box.magenta').toggleClass('blink');
+        }, 350);
       } else {
         clearInterval(blinkInterval);
       }
