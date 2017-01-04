@@ -1,9 +1,9 @@
 import java.util.HashMap;
 
-/*
-This project creates a simple Library tool to help analyze completed books in a small, personal library. 
-The tool will print out the books that a user has full read. 
-The books and their completion status will be stored in a HashMap.
+/**
+* This project creates a simple Library tool to help analyze completed books in a small, personal library. 
+* The tool will print out the books that a user has full read. 
+* The books and their completion status will be stored in a HashMap.
 */
 
 public class Library {
