@@ -25,12 +25,14 @@ function main(){
   $('.toggle-blink').on('click', function(){
     if(colorClass) {
       $(this).toggleClass('opacity');
+      if($(this).hasClass('opacity')) {
+        
        blinkInterval = setInterval(function() {
         $('.box.cyan, .box.yellow, .box.magenta').toggleClass('blink');
       }, 350);
-    }
-    if($('.box.cyan, .box.yellow, .box.magenta').hasClass('blink')) {
-      clearInterval(blinkInterval);
+      } else {
+        clearInterval(blinkInterval);
+      }
     }
   });
 }
