@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 
-/*
-This project creates a simple tool to help analyze classrom grades stored in an ArrayList. The analyzer will be able to retrieve the classroom average.
+/**
+* This project creates a simple tool to help analyze classrom grades stored in an ArrayList. 
+* The analyzer will be able to retrieve the classroom average.
 */
 
 public class GradeAnalyzer {
